@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="KWD_AIAF_SPEL_Blood_EnhanceRegenHealth.svg"
+   width="512"
+   height="512"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="true"
+     inkscape:zoom="0.7071068"
+     inkscape:cx="391.73715"
+     inkscape:cy="409.41482"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1042"
+     inkscape:window-y="276"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1">
+    <inkscape:grid
+       id="grid1"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="1"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       dotted="false"
+       gridanglex="30"
+       gridanglez="30"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <rect
+       x="-20"
+       y="20"
+       width="188.88463"
+       height="124.24978"
+       id="rect5" />
+    <rect
+       x="-60"
+       y="-40"
+       width="180"
+       height="200"
+       id="rect4" />
+  </defs>
+  <g
+     transform="matrix(18.574055,0,0,18.574055,-2560.8516,-3478.1523)"
+     id="g1">
+    <path
+       id="path2"
+       style="fill:#931826;stroke-width:0.0334692"
+       d="m 151.65629,187.25968 c -0.11509,-0.0819 -3.63887,4.74933 -4.8076,6.94361 -0.81267,1.37143 -1.39641,2.81999 -1.43879,4.40695 0,3.5857 2.80634,5.7484 6.25554,5.7484 3.44919,0 6.23501,-2.1627 6.23501,-5.7484 -0.0425,-1.58729 -0.62526,-3.05939 -1.4382,-4.43108 -1.16691,-2.19055 -4.69057,-7.00162 -4.80596,-6.91948 z m -0.66069,4.36085 c -2.40286,2.28895 -3.45665,5.39746 -4.01631,8.86935 -1.94872,-2.50186 2.00269,-9.36061 4.01631,-8.86935 z"
+       sodipodi:nodetypes="cccscccccc" />
+    <path
+       id="path4"
+       style="fill:#931826;stroke-width:0.0293465"
+       d="m 143.34948,199.83124 c -0.1009,-0.0718 -3.19065,4.16432 -4.21541,6.08831 -0.71256,1.2025 -1.22441,2.47262 -1.26156,3.8641 0,3.14402 2.46066,5.04032 5.48499,5.04032 3.02432,0 5.46698,-1.8963 5.46698,-5.04032 -0.0372,-1.39176 -0.54824,-2.68253 -1.26104,-3.88526 -1.02317,-1.92072 -4.11279,-6.13917 -4.21396,-6.06715 z m -0.57931,3.82369 c -2.10688,2.007 -3.03086,4.7326 -3.52159,7.77683 -1.70867,-2.19369 1.756,-8.20758 3.52159,-7.77683 z"
+       sodipodi:nodetypes="cccscccccc" />
+    <path
+       id="path5"
+       style="fill:#931826;stroke-width:0.0293465"
+       d="m 159.96284,199.83124 c -0.1009,-0.0718 -3.19065,4.16432 -4.21541,6.08831 -0.71256,1.2025 -1.22441,2.47262 -1.26156,3.8641 0,3.14402 2.46066,5.04032 5.48499,5.04032 3.02432,0 5.46698,-1.8963 5.46698,-5.04032 -0.0372,-1.39176 -0.54824,-2.68253 -1.26104,-3.88526 -1.02317,-1.92072 -4.11279,-6.13917 -4.21396,-6.06715 z m -0.57931,3.82369 c -2.10688,2.007 -3.03086,4.7326 -3.52159,7.77683 -1.70867,-2.19369 1.756,-8.20758 3.52159,-7.77683 z"
+       sodipodi:nodetypes="cccscccccc" />
+  </g>
+</svg>
