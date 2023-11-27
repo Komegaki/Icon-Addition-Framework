@@ -1,0 +1,1116 @@
+{
+"$schema": "https://raw.githubusercontent.com/GroundAura/InventoryInjector/main/docs/InventoryInjector.schema.json",
+"rules": [
+    {
+        "match": {
+            "formType": "Spell",
+            "effectKeywords": "AIAF_SPEL_Earth_Cloak"
+        },
+        "assign": {
+            "iconSource": "IAF_Natura/IAF_Natura.swf",
+            "iconLabel": "Natura_Cloak",
+            "iconColor": "#976533"
+        }
+    },
+    {
+        "match": {
+            "formType": "Spell",
+            "effectKeywords": "AIAF_SPEL_Earth_DamageEarth"
+        },
+        "assign": {
+            "iconSource": "IAF_Natura/IAF_Natura.swf",
+            "iconLabel": "Earth_DamageEarth",
+            "iconColor": "#976533"
+        }
+    },
+    {
+        "match": {
+            "formType": "Spell",
+            "effectKeywords": "AIAF_SPEL_Earth_EnhanceWeapon"
+        },
+        "assign": {
+            "iconSource": "IAF_Natura/IAF_Natura.swf",
+            "iconLabel": "Natura_EnhanceWeapon",
+            "iconColor": "#976533"
+        }
+    },
+    {
+        "match": {
+            "formType": "Spell",
+            "effectKeywords": "AIAF_SPEL_Earth_Rune"
+        },
+        "assign": {
+            "iconSource": "IAF_Natura/IAF_Natura.swf",
+            "iconLabel": "Earth_Rune",
+            "iconColor": "#976533"
+        }
+    },
+    {
+        "match": {
+            "formType": "Spell",
+            "effectKeywords": "AIAF_SPEL_Earth_Summon"
+        },
+        "assign": {
+            "iconSource": "IAF_Natura/IAF_Natura.swf",
+            "iconLabel": "Natura_Summon",
+            "iconColor": "#976533"
+        }
+    },
+    {
+        "match": {
+            "formType": "Spell",
+            "effectKeywords": "AIAF_SPEL_Poison_Cloak"
+        },
+        "assign": {
+            "iconSource": "IAF_Natura/IAF_Natura.swf",
+            "iconLabel": "Natura_Cloak",
+            "iconColor": "#9eda74"
+        }
+    },
+    {
+        "match": {
+            "formType": "Spell",
+            "effectKeywords": "AIAF_SPEL_Poison_DamagePoison"
+        },
+        "assign": {
+            "iconSource": "IAF_Natura/IAF_Natura.swf",
+            "iconLabel": "Poison_DamagePoison",
+            "iconColor": "#9eda74"
+        }
+    },
+    {
+        "match": {
+            "formType": "Spell",
+            "effectKeywords": "AIAF_SPEL_Poison_EnhanceWeapon"
+        },
+        "assign": {
+            "iconSource": "IAF_Natura/IAF_Natura.swf",
+            "iconLabel": "Natura_EnhanceWeapon",
+            "iconColor": "#9eda74"
+        }
+    },
+    {
+        "match": {
+            "formType": "Spell",
+            "effectKeywords": "AIAF_SPEL_Poison_Rune"
+        },
+        "assign": {
+            "iconSource": "IAF_Natura/IAF_Natura.swf",
+            "iconLabel": "Poison_Rune",
+            "iconColor": "#9eda74"
+        }
+    },
+    {
+        "match": {
+            "formType": "Spell",
+            "effectKeywords": "AIAF_SPEL_Poison_Summon"
+        },
+        "assign": {
+            "iconSource": "IAF_Natura/IAF_Natura.swf",
+            "iconLabel": "Natura_Summon",
+            "iconColor": "#9eda74"
+        }
+    },
+    {
+        "match": {
+            "formType": "Spell",
+            "effectKeywords": "AIAF_SPEL_Poison_Summon"
+        },
+        "assign": {
+            "iconSource": "IAF_Natura/IAF_Natura.swf",
+            "iconLabel": "Natura_Summon",
+            "iconColor": "#9eda74"
+        }
+    },
+    {
+        "match": {
+            "formType": "Spell",
+            "effectKeywords": "AIAF_SPEL_Water_Cloak"
+        },
+        "assign": {
+            "iconSource": "IAF_Natura/IAF_Natura.swf",
+            "iconLabel": "Natura_Cloak",
+            "iconColor": "#74abd1"
+        }
+    },
+    {
+        "match": {
+            "formType": "Spell",
+            "effectKeywords": "AIAF_SPEL_Water_DamageWater"
+        },
+        "assign": {
+            "iconSource": "IAF_Natura/IAF_Natura.swf",
+            "iconLabel": "Water_DamageWater",
+            "iconColor": "#74abd1"
+        }
+    },
+    {
+        "match": {
+            "formType": "Spell",
+            "effectKeywords": "AIAF_SPEL_Water_EnhanceWeapon"
+        },
+        "assign": {
+            "iconSource": "IAF_Natura/IAF_Natura.swf",
+            "iconLabel": "Natura_EnhanceWeapon",
+            "iconColor": "#74abd1"
+        }
+    },
+    {
+        "match": {
+            "formType": "Spell",
+            "effectKeywords": "AIAF_SPEL_Water_Rune"
+        },
+        "assign": {
+            "iconSource": "IAF_Natura/IAF_Natura.swf",
+            "iconLabel": "Water_Rune",
+            "iconColor": "#74abd1"
+        }
+    },
+    {
+        "match": {
+            "formType": "Spell",
+            "effectKeywords": "AIAF_SPEL_Water_Summon"
+        },
+        "assign": {
+            "iconSource": "IAF_Natura/IAF_Natura.swf",
+            "iconLabel": "Natura_Summon",
+            "iconColor": "#74abd1"
+        }
+    },
+    {
+        "match": {
+            "formType": "Spell",
+            "effectKeywords": "AIAF_SPEL_Wind_Cloak"
+        },
+        "assign": {
+            "iconSource": "IAF_Natura/IAF_Natura.swf",
+            "iconLabel": "Natura_Cloak",
+            "iconColor": "#c1c1c1"
+        }
+    },
+    {
+        "match": {
+            "formType": "Spell",
+            "effectKeywords": "AIAF_SPEL_Wind_DamageWind"
+        },
+        "assign": {
+            "iconSource": "IAF_Natura/IAF_Natura.swf",
+            "iconLabel": "Wind_DamageWind",
+            "iconColor": "#c1c1c1"
+        }
+    },
+    {
+        "match": {
+            "formType": "Spell",
+            "effectKeywords": "AIAF_SPEL_Wind_EnhanceWeapon"
+        },
+        "assign": {
+            "iconSource": "IAF_Natura/IAF_Natura.swf",
+            "iconLabel": "Natura_EnhanceWeapon",
+            "iconColor": "#c1c1c1"
+        }
+    },
+    {
+        "match": {
+            "formType": "Spell",
+            "effectKeywords": "AIAF_SPEL_Wind_Rune"
+        },
+        "assign": {
+            "iconSource": "IAF_Natura/IAF_Natura.swf",
+            "iconLabel": "Wind_Rune",
+            "iconColor": "#c1c1c1"
+        }
+    },
+    {
+        "match": {
+            "formType": "Spell",
+            "effectKeywords": "AIAF_SPEL_Wind_Summon"
+        },
+        "assign": {
+            "iconSource": "IAF_Natura/IAF_Natura.swf",
+            "iconLabel": "Natura_Summon",
+            "iconColor": "#c1c1c1"
+        }
+    },
+    {
+        "match": {
+            "formType": "Spell",
+            "effectKeywords": "AIAF_SPEL_Shadow_Cloak"
+        },
+        "assign": {
+            "iconSource": "IAF_Abyss/IAF_Abyss.swf",
+            "iconLabel": "Shadow_Cloak",
+            "iconColor": "#4c4cff"
+        }
+    },
+    {
+        "match": {
+            "formType": "Spell",
+            "effectKeywords": "AIAF_SPEL_Shadow_Debuff"
+        },
+        "assign": {
+            "iconSource": "IAF_Abyss/IAF_Abyss.swf",
+            "iconLabel": "Shadow_Debuff",
+            "iconColor": "#4c4cff"
+        }
+    },
+    {
+        "match": {
+            "formType": "Spell",
+            "effectKeywords": "AIAF_SPEL_Shadow_DebuffMovement"
+        },
+        "assign": {
+            "iconSource": "IAF_Abyss/IAF_Abyss.swf",
+            "iconLabel": "Shadow_DebuffMovement",
+            "iconColor": "#4c4cff"
+        }
+    },
+    {
+        "match": {
+            "formType": "Spell",
+            "effectKeywords": "AIAF_SPEL_Shadow_DamageShadow"
+        },
+        "assign": {
+            "iconSource": "IAF_Abyss/IAF_Abyss.swf",
+            "iconLabel": "Shadow_DamageShadow",
+            "iconColor": "#4c4cff"
+        }
+    },
+    {
+        "match": {
+            "formType": "Spell",
+            "effectKeywords": "AIAF_SPEL_Shadow_EnhanceSpell"
+        },
+        "assign": {
+            "iconSource": "IAF_Abyss/IAF_Abyss.swf",
+            "iconLabel": "Shadow_EnhanceSpell",
+            "iconColor": "#4c4cff"
+        }
+    },
+    {
+        "match": {
+            "formType": "Spell",
+            "effectKeywords": "AIAF_SPEL_Shadow_EnhanceWeapon"
+        },
+        "assign": {
+            "iconSource": "IAF_Abyss/IAF_Abyss.swf",
+            "iconLabel": "Shadow_EnhanceWeapon",
+            "iconColor": "#4c4cff"
+        }
+    },
+    {
+        "match": {
+            "formType": "Spell",
+            "effectKeywords": "AIAF_SPEL_Shadow_Invisibility"
+        },
+        "assign": {
+            "iconSource": "IAF_Abyss/IAF_Abyss.swf",
+            "iconLabel": "Shadow_Invisibility",
+            "iconColor": "#4c4cff"
+        }
+    },
+    {
+        "match": {
+            "formType": "Spell",
+            "effectKeywords": "AIAF_SPEL_Shadow_InvisibilityBuff"
+        },
+        "assign": {
+            "iconSource": "IAF_Abyss/IAF_Abyss.swf",
+            "iconLabel": "Shadow_InvisibilityBuff",
+            "iconColor": "#4c4cff"
+        }
+    },
+    {
+        "match": {
+            "formType": "Spell",
+            "effectKeywords": "AIAF_SPEL_Shadow_Rune"
+        },
+        "assign": {
+            "iconSource": "IAF_Abyss/IAF_Abyss.swf",
+            "iconLabel": "Shadow_Rune",
+            "iconColor": "#4c4cff"
+        }
+    },
+    {
+        "match": {
+            "formType": "Spell",
+            "effectKeywords": "AIAF_SPEL_Shadow_SlayEnemy"
+        },
+        "assign": {
+            "iconSource": "IAF_Abyss/IAF_Abyss.swf",
+            "iconLabel": "Shadow_SlayEnemy",
+            "iconColor": "#4c4cff"
+        }
+    },
+    {
+        "match": {
+            "formType": "Spell",
+            "effectKeywords": "AIAF_SPEL_Shadow_Summon"
+        },
+        "assign": {
+            "iconSource": "IAF_Abyss/IAF_Abyss.swf",
+            "iconLabel": "Shadow_Summon",
+            "iconColor": "#4c4cff"
+        }
+    },
+    {
+        "match": {
+            "formType": "Spell",
+            "effectKeywords": "AIAF_SPEL_Arcane_Cloak"
+        },
+        "assign": {
+            "iconSource": "IAF_Arcane/IAF_Arcane.swf",
+            "iconLabel": "Arcane_Cloak",
+            "iconColor": "#6bc1c6"
+        }
+    },
+    {
+        "match": {
+            "formType": "Spell",
+            "effectKeywords": "AIAF_SPEL_Arcane_DamageArcane"
+        },
+        "assign": {
+            "iconSource": "IAF_Arcane/IAF_Arcane.swf",
+            "iconLabel": "Arcane_DamageArcane",
+            "iconColor": "#6bc1c6"
+        }
+    },
+    {
+        "match": {
+            "formType": "Spell",
+            "effectKeywords": "AIAF_SPEL_Arcane_EnhanceWeapon"
+        },
+        "assign": {
+            "iconSource": "IAF_Arcane/IAF_Arcane.swf",
+            "iconLabel": "Arcane_EnhanceWeapon",
+            "iconColor": "#6bc1c6"
+        }
+    },
+    {
+        "match": {
+            "formType": "Spell",
+            "effectKeywords": "AIAF_SPEL_Arcane_Pull"
+        },
+        "assign": {
+            "iconSource": "IAF_Arcane/IAF_Arcane.swf",
+            "iconLabel": "Arcane_Pull",
+            "iconColor": "#6bc1c6"
+        }
+    },
+    {
+        "match": {
+            "formType": "Spell",
+            "effectKeywords": "AIAF_SPEL_Arcane_Rune"
+        },
+        "assign": {
+            "iconSource": "IAF_Arcane/IAF_Arcane.swf",
+            "iconLabel": "Arcane_Rune",
+            "iconColor": "#6bc1c6"
+        }
+    },
+    {
+        "match": {
+            "formType": "Spell",
+            "effectKeywords": "AIAF_SPEL_Arcane_Summon"
+        },
+        "assign": {
+            "iconSource": "IAF_Arcane/IAF_Arcane.swf",
+            "iconLabel": "Arcane_Summon",
+            "iconColor": "#6bc1c6"
+        }
+    },
+    {
+        "match": {
+            "formType": "Spell",
+            "effectKeywords": "AIAF_SPEL_ShockArc_Cloak"
+        },
+        "assign": {
+            "iconSource": "IAF_Arclight/IAF_Arclight.swf",
+            "iconLabel": "ShockArc_Cloak",
+            "iconColor": "#ff6633"
+        }
+    },
+    {
+        "match": {
+            "formType": "Spell",
+            "effectKeywords": "AIAF_SPEL_ShockArc_DamageShockArc"
+        },
+        "assign": {
+            "iconSource": "IAF_Arclight/IAF_Arclight.swf",
+            "iconLabel": "ShockArc_DamageShockArc",
+            "iconColor": "#ff6633"
+        }
+    },
+    {
+        "match": {
+            "formType": "Spell",
+            "effectKeywords": "AIAF_SPEL_ShockArc_EnhanceWeapon"
+        },
+        "assign": {
+            "iconSource": "IAF_Arclight/IAF_Arclight.swf",
+            "iconLabel": "ShockArc_EnhanceWeapon",
+            "iconColor": "#ff6633"
+        }
+    },
+    {
+        "match": {
+            "formType": "Spell",
+            "effectKeywords": "AIAF_SPEL_ShockArc_Rune"
+        },
+        "assign": {
+            "iconSource": "IAF_Arclight/IAF_Arclight.swf",
+            "iconLabel": "ShockArc_Rune",
+            "iconColor": "#ff6633"
+        }
+    },
+    {
+        "match": {
+            "formType": "Spell",
+            "effectKeywords": "AIAF_SPEL_ShockArc_Summon"
+        },
+        "assign": {
+            "iconSource": "IAF_Arclight/IAF_Arclight.swf",
+            "iconLabel": "ShockArc_Summon",
+            "iconColor": "#ff6633"
+        }
+    },
+    {
+        "match": {
+            "formType": "Spell",
+            "effectKeywords": "AIAF_SPEL_Blood_Cloak"
+        },
+        "assign": {
+            "iconSource": "IAF_Bloodmoon/IAF_Bloodmoon.swf",
+            "iconLabel": "Blood_Cloak",
+            "iconColor": "#931826"
+        }
+    },
+    {
+        "match": {
+            "formType": "Spell",
+            "effectKeywords": "AIAF_SPEL_Blood_DamageBlood"
+        },
+        "assign": {
+            "iconSource": "IAF_Bloodmoon/IAF_Bloodmoon.swf",
+            "iconLabel": "Blood_DamageBlood",
+            "iconColor": "#931826"
+        }
+    },
+    {
+        "match": {
+            "formType": "Spell",
+            "effectKeywords": "AIAF_SPEL_Blood_EnhanceRegenHealth"
+        },
+        "assign": {
+            "iconSource": "IAF_Bloodmoon/IAF_Bloodmoon.swf",
+            "iconLabel": "Blood_EnhanceRegenHealth",
+            "iconColor": "#931826"
+        }
+    },
+    {
+        "match": {
+            "formType": "Spell",
+            "effectKeywords": "AIAF_SPEL_Blood_EnhanceSpell"
+        },
+        "assign": {
+            "iconSource": "IAF_Bloodmoon/IAF_Bloodmoon.swf",
+            "iconLabel": "Blood_EnhanceSpell",
+            "iconColor": "#931826"
+        }
+    },
+    {
+        "match": {
+            "formType": "Spell",
+            "effectKeywords": "AIAF_SPEL_Blood_EnhanceWeapon"
+        },
+        "assign": {
+            "iconSource": "IAF_Bloodmoon/IAF_Bloodmoon.swf",
+            "iconLabel": "Blood_EnhanceWeapon",
+            "iconColor": "#931826"
+        }
+    },
+    {
+        "match": {
+            "formType": "Spell",
+            "effectKeywords": "AIAF_SPEL_Blood_ReduceDamage"
+        },
+        "assign": {
+            "iconSource": "IAF_Bloodmoon/IAF_Bloodmoon.swf",
+            "iconLabel": "Blood_ReduceDamage",
+            "iconColor": "#931826"
+        }
+    },
+    {
+        "match": {
+            "formType": "Spell",
+            "effectKeywords": "AIAF_SPEL_Blood_Rune"
+        },
+        "assign": {
+            "iconSource": "IAF_Bloodmoon/IAF_Bloodmoon.swf",
+            "iconLabel": "Blood_Rune",
+            "iconColor": "#931826"
+        }
+    },
+    {
+        "match": {
+            "formType": "Spell",
+            "effectKeywords": "AIAF_SPEL_Blood_Summon"
+        },
+        "assign": {
+            "iconSource": "IAF_Bloodmoon/IAF_Bloodmoon.swf",
+            "iconLabel": "Blood_Summon",
+            "iconColor": "#931826"
+        }
+    },
+    {
+        "match": {
+            "formType": "Spell",
+            "effectKeywords": "AIAF_SPEL_NecroticFire_Cloak"
+        },
+        "assign": {
+            "iconSource": "IAF_Desecration/IAF_Desecration.swf",
+            "iconLabel": "NecroticFire_Cloak",
+            "iconColor": "#5dd795"
+        }
+    },
+    {
+        "match": {
+            "formType": "Spell",
+            "effectKeywords": "AIAF_SPEL_NecroticFire_DamageNecroticFire"
+        },
+        "assign": {
+            "iconSource": "IAF_Desecration/IAF_Desecration.swf",
+            "iconLabel": "NecroticFire_DamageNecroticFire",
+            "iconColor": "#5dd795"
+        }
+    },
+    {
+        "match": {
+            "formType": "Spell",
+            "effectKeywords": "AIAF_SPEL_NecroticFire_EnhanceWeapon"
+        },
+        "assign": {
+            "iconSource": "IAF_Desecration/IAF_Desecration.swf",
+            "iconLabel": "NecroticFire_EnhanceWeapon",
+            "iconColor": "#5dd795"
+        }
+    },
+    {
+        "match": {
+            "formType": "Spell",
+            "effectKeywords": "AIAF_SPEL_NecroticFire_Rune"
+        },
+        "assign": {
+            "iconSource": "IAF_Desecration/IAF_Desecration.swf",
+            "iconLabel": "NecroticFire_Rune",
+            "iconColor": "#5dd795"
+        }
+    },
+    {
+        "match": {
+            "formType": "Spell",
+            "effectKeywords": "AIAF_SPEL_NecroticFire_Summon"
+        },
+        "assign": {
+            "iconSource": "IAF_Desecration/IAF_Desecration.swf",
+            "iconLabel": "NecroticFire_Summon",
+            "iconColor": "#5dd795"
+        }
+    },
+    {
+        "match": {
+            "formType": "Spell",
+            "effectKeywords": "AIAF_SPEL_FrostFire_Cloak"
+        },
+        "assign": {
+            "iconSource": "IAF_FlamesOfColdharbour/IAF_FlamesOfColdharbour.swf",
+            "iconLabel": "FrostFire_Cloak",
+            "iconColor": "#5ab8ff"
+        }
+    },
+    {
+        "match": {
+            "formType": "Spell",
+            "effectKeywords": "AIAF_SPEL_FrostFire_DamageFrostFire"
+        },
+        "assign": {
+            "iconSource": "IAF_FlamesOfColdharbour/IAF_FlamesOfColdharbour.swf",
+            "iconLabel": "FrostFire_DamageFrostFire",
+            "iconColor": "#5ab8ff"
+        }
+    },
+    {
+        "match": {
+            "formType": "Spell",
+            "effectKeywords": "AIAF_SPEL_FrostFire_EnhanceWeapon"
+        },
+        "assign": {
+            "iconSource": "IAF_FlamesOfColdharbour/IAF_FlamesOfColdharbour.swf",
+            "iconLabel": "FrostFire_EnhanceWeapon",
+            "iconColor": "#5ab8ff"
+        }
+    },
+    {
+        "match": {
+            "formType": "Spell",
+            "effectKeywords": "AIAF_SPEL_FrostFire_Rune"
+        },
+        "assign": {
+            "iconSource": "IAF_FlamesOfColdharbour/IAF_FlamesOfColdharbour.swf",
+            "iconLabel": "FrostFire_Rune",
+            "iconColor": "#5ab8ff"
+        }
+    },
+    {
+        "match": {
+            "formType": "Spell",
+            "effectKeywords": "AIAF_SPEL_FrostFire_Summon"
+        },
+        "assign": {
+            "iconSource": "IAF_FlamesOfColdharbour/IAF_FlamesOfColdharbour.swf",
+            "iconLabel": "FrostFire_Summon",
+            "iconColor": "#5ab8ff"
+        }
+    },
+    {
+        "match": {
+            "formType": "Spell",
+            "effectKeywords": "AIAF_SPEL_HolyLunar_Cloak"
+        },
+        "assign": {
+            "iconSource": "IAF_Lunaris/IAF_Lunaris.swf",
+            "iconLabel": "HolyLunar_Cloak",
+            "iconColor": "#4898ea"
+        }
+    },
+    {
+        "match": {
+            "formType": "Spell",
+            "effectKeywords": "AIAF_SPEL_HolyLunar_DamageHolyLunar"
+        },
+        "assign": {
+            "iconSource": "IAF_Lunaris/IAF_Lunaris.swf",
+            "iconLabel": "HolyLunar_DamageHolyLunar",
+            "iconColor": "#4898ea"
+        }
+    },
+    {
+        "match": {
+            "formType": "Spell",
+            "effectKeywords": "AIAF_SPEL_HolyLunar_EnhanceWeapon"
+        },
+        "assign": {
+            "iconSource": "IAF_Lunaris/IAF_Lunaris.swf",
+            "iconLabel": "HolyLunar_EnhanceWeapon",
+            "iconColor": "#4898ea"
+        }
+    },
+    {
+        "match": {
+            "formType": "Spell",
+            "effectKeywords": "AIAF_SPEL_HolyLunar_Rune"
+        },
+        "assign": {
+            "iconSource": "IAF_Lunaris/IAF_Lunaris.swf",
+            "iconLabel": "HolyLunar_Rune",
+            "iconColor": "#4898ea"
+        }
+    },
+    {
+        "match": {
+            "formType": "Spell",
+            "effectKeywords": "AIAF_SPEL_Eldritch_BlackBook"
+        },
+        "assign": {
+            "iconSource": "IAF_Necrom/IAF_Necrom.swf",
+            "iconLabel": "Eldritch_BlackBook",
+            "iconColor": "#8ea732"
+        }
+    },
+    {
+        "match": {
+            "formType": "Spell",
+            "effectKeywords": "AIAF_SPEL_Eldritch_Cloak"
+        },
+        "assign": {
+            "iconSource": "IAF_Necrom/IAF_Necrom.swf",
+            "iconLabel": "Eldritch_Cloak",
+            "iconColor": "#8ea732"
+        }
+    },
+    {
+        "match": {
+            "formType": "Spell",
+            "effectKeywords": "AIAF_SPEL_Eldritch_DamageEldritch"
+        },
+        "assign": {
+            "iconSource": "IAF_Necrom/IAF_Necrom.swf",
+            "iconLabel": "Eldritch_DamageEldritch",
+            "iconColor": "#8ea732"
+        }
+    },
+    {
+        "match": {
+            "formType": "Spell",
+            "effectKeywords": "AIAF_SPEL_Eldritch_EnhanceWeapon"
+        },
+        "assign": {
+            "iconSource": "IAF_Necrom/IAF_Necrom.swf",
+            "iconLabel": "Eldritch_EnhanceWeapon",
+            "iconColor": "#8ea732"
+        }
+    },
+    {
+        "match": {
+            "formType": "Spell",
+            "effectKeywords": "AIAF_SPEL_Eldritch_Rune"
+        },
+        "assign": {
+            "iconSource": "IAF_Necrom/IAF_Necrom.swf",
+            "iconLabel": "Eldritch_Rune",
+            "iconColor": "#8ea732"
+        }
+    },
+    {
+        "match": {
+            "formType": "Spell",
+            "effectKeywords": "AIAF_SPEL_Eldritch_Summon"
+        },
+        "assign": {
+            "iconSource": "IAF_Necrom/IAF_Necrom.swf",
+            "iconLabel": "Eldritch_Summon",
+            "iconColor": "#8ea732"
+        }
+    },
+    {
+        "match": {
+            "formType": "Spell",
+            "effectKeywords": "AIAF_SPEL_Necromancy_ExplodeCorpse"
+        },
+        "assign": {
+            "iconSource": "IAF_Necrotic/IAF_Necrotic.swf",
+            "iconLabel": "Necromancy_ExplodeCorpse",
+            "iconColor": "#5dd795"
+        }
+    },
+    {
+        "match": {
+            "formType": "Spell",
+            "effectKeywords": "AIAF_SPEL_Necromancy_MassSummon"
+        },
+        "assign": {
+            "iconSource": "IAF_Necrotic/IAF_Necrotic.swf",
+            "iconLabel": "Necromancy_MassSummon",
+            "iconColor": "#5dd795"
+        }
+    },
+    {
+        "match": {
+            "formType": "Spell",
+            "effectKeywords": "AIAF_SPEL_Necromancy_MinionEnhanceHealth"
+        },
+        "assign": {
+            "iconSource": "IAF_Necrotic/IAF_Necrotic.swf",
+            "iconLabel": "Necromancy_MinionEnhanceHealth",
+            "iconColor": "#5dd795"
+        }
+    },
+    {
+        "match": {
+            "formType": "Spell",
+            "effectKeywords": "AIAF_SPEL_Necromancy_Pull"
+        },
+        "assign": {
+            "iconSource": "IAF_Necrotic/IAF_Necrotic.swf",
+            "iconLabel": "Necromancy_Pull",
+            "iconColor": "#5dd795"
+        }
+    },
+    {
+        "match": {
+            "formType": "Spell",
+            "effectKeywords": "AIAF_SPEL_Necromancy_Reanimate"
+        },
+        "assign": {
+            "iconSource": "IAF_Necrotic/IAF_Necrotic.swf",
+            "iconLabel": "Necromancy_Reanimate",
+            "iconColor": "#5dd795"
+        }
+    },
+    {
+        "match": {
+            "formType": "Spell",
+            "effectKeywords": "AIAF_SPEL_Necromancy_ReduceDamage"
+        },
+        "assign": {
+            "iconSource": "IAF_Necrotic/IAF_Necrotic.swf",
+            "iconLabel": "Necromancy_ReduceDamage",
+            "iconColor": "#5dd795"
+        }
+    },
+    {
+        "match": {
+            "formType": "Spell",
+            "effectKeywords": "AIAF_SPEL_Necromancy_SacrificeCorpse"
+        },
+        "assign": {
+            "iconSource": "IAF_Necrotic/IAF_Necrotic.swf",
+            "iconLabel": "Necromancy_SacrificeCorpse",
+            "iconColor": "#5dd795"
+        }
+    },
+    {
+        "match": {
+            "formType": "Spell",
+            "effectKeywords": "AIAF_SPEL_Necromancy_ShardHarvest"
+        },
+        "assign": {
+            "iconSource": "IAF_Necrotic/IAF_Necrotic.swf",
+            "iconLabel": "Necromancy_ShardHarvest",
+            "iconColor": "#5dd795"
+        }
+    },
+    {
+        "match": {
+            "formType": "Spell",
+            "effectKeywords": "AIAF_SPEL_Necromancy_Summon"
+        },
+        "assign": {
+            "iconSource": "IAF_Necrotic/IAF_Necrotic.swf",
+            "iconLabel": "Necromancy_Summon",
+            "iconColor": "#5dd795"
+        }
+    },
+    {
+        "match": {
+            "formType": "Spell",
+            "effectKeywords": "AIAF_SPEL_Necromancy_SummonEquipmentBattleaxe"
+        },
+        "assign": {
+            "iconSource": "IAF_Necrotic/IAF_Necrotic.swf",
+            "iconLabel": "Necromancy_SummonEquipmentBattleaxe",
+            "iconColor": "#5dd795"
+        }
+    },
+    {
+        "match": {
+            "formType": "Spell",
+            "effectKeywords": "AIAF_SPEL_Necromancy_SummonEquipmentBow"
+        },
+        "assign": {
+            "iconSource": "IAF_Necrotic/IAF_Necrotic.swf",
+            "iconLabel": "Necromancy_SummonEquipmentBow",
+            "iconColor": "#5dd795"
+        }
+    },
+    {
+        "match": {
+            "formType": "Spell",
+            "effectKeywords": "AIAF_SPEL_Necromancy_SummonEquipmentDagger"
+        },
+        "assign": {
+            "iconSource": "IAF_Necrotic/IAF_Necrotic.swf",
+            "iconLabel": "Necromancy_SummonEquipmentDagger",
+            "iconColor": "#5dd795"
+        }
+    },
+    {
+        "match": {
+            "formType": "Spell",
+            "effectKeywords": "AIAF_SPEL_Necromancy_SummonEquipmentGreatsword"
+        },
+        "assign": {
+            "iconSource": "IAF_Necrotic/IAF_Necrotic.swf",
+            "iconLabel": "Necromancy_SummonEquipmentGreatsword",
+            "iconColor": "#5dd795"
+        }
+    },
+    {
+        "match": {
+            "formType": "Spell",
+            "effectKeywords": "AIAF_SPEL_Necromancy_SummonEquipmentMace"
+        },
+        "assign": {
+            "iconSource": "IAF_Necrotic/IAF_Necrotic.swf",
+            "iconLabel": "Necromancy_SummonEquipmentMace",
+            "iconColor": "#5dd795"
+        }
+    },
+    {
+        "match": {
+            "formType": "Spell",
+            "effectKeywords": "AIAF_SPEL_Necromancy_SummonEquipmentShield"
+        },
+        "assign": {
+            "iconSource": "IAF_Necrotic/IAF_Necrotic.swf",
+            "iconLabel": "Necromancy_SummonEquipmentShield",
+            "iconColor": "#5dd795"
+        }
+    },
+    {
+        "match": {
+            "formType": "Spell",
+            "effectKeywords": "AIAF_SPEL_Necromancy_SummonEquipmentSword"
+        },
+        "assign": {
+            "iconSource": "IAF_Necrotic/IAF_Necrotic.swf",
+            "iconLabel": "Necromancy_SummonEquipmentSword",
+            "iconColor": "#5dd795"
+        }
+    },
+    {
+        "match": {
+            "formType": "Spell",
+            "effectKeywords": "AIAF_SPEL_Necromancy_SummonEquipmentWarAxe"
+        },
+        "assign": {
+            "iconSource": "IAF_Necrotic/IAF_Necrotic.swf",
+            "iconLabel": "Necromancy_SummonEquipmentWarAxe",
+            "iconColor": "#5dd795"
+        }
+    },
+    {
+        "match": {
+            "formType": "Spell",
+            "effectKeywords": "AIAF_SPEL_Necromancy_SummonEquipmentWarhammer"
+        },
+        "assign": {
+            "iconSource": "IAF_Necrotic/IAF_Necrotic.swf",
+            "iconLabel": "Necromancy_SummonEquipmentWarhammer",
+            "iconColor": "#5dd795"
+        }
+    },
+    {
+        "match": {
+            "formType": "Spell",
+            "effectKeywords": "AIAF_SPEL_HolyAstral_Cloak"
+        },
+        "assign": {
+            "iconSource": "IAF_Stellaris/IAF_Stellaris.swf",
+            "iconLabel": "HolyAstral_Cloak",
+            "iconColor": "#c9779a"
+        }
+    },
+    {
+        "match": {
+            "formType": "Spell",
+            "effectKeywords": "AIAF_SPEL_HolyAstral_DamageHolyAstral"
+        },
+        "assign": {
+            "iconSource": "IAF_Stellaris/IAF_Stellaris.swf",
+            "iconLabel": "HolyAstral_DamageHolyAstral",
+            "iconColor": "#c9779a"
+        }
+    },
+    {
+        "match": {
+            "formType": "Spell",
+            "effectKeywords": "AIAF_SPEL_HolyAstral_Heal"
+        },
+        "assign": {
+            "iconSource": "IAF_Stellaris/IAF_Stellaris.swf",
+            "iconLabel": "HolyAstral_Heal",
+            "iconColor": "#c9779a"
+        }
+    },
+    {
+        "match": {
+            "formType": "Spell",
+            "effectKeywords": "AIAF_SPEL_HolyAstral_EnhanceJump"
+        },
+        "assign": {
+            "iconSource": "IAF_Stellaris/IAF_Stellaris.swf",
+            "iconLabel": "HolyAstral_EnhanceJump",
+            "iconColor": "#c9779a"
+        }
+    },
+    {
+        "match": {
+            "formType": "Spell",
+            "effectKeywords": "AIAF_SPEL_HolyAstral_EnhanceWeapon"
+        },
+        "assign": {
+            "iconSource": "IAF_Stellaris/IAF_Stellaris.swf",
+            "iconLabel": "HolyAstral_EnhanceWeapon",
+            "iconColor": "#c9779a"
+        }
+    },
+    {
+        "match": {
+            "formType": "Spell",
+            "effectKeywords": "AIAF_SPEL_HolyAstral_ReduceDamage"
+        },
+        "assign": {
+            "iconSource": "IAF_Stellaris/IAF_Stellaris.swf",
+            "iconLabel": "HolyAstral_ReduceDamage",
+            "iconColor": "#c9779a"
+        }
+    },
+    {
+        "match": {
+            "formType": "Spell",
+            "effectKeywords": "AIAF_SPEL_HolyAstral_Rune"
+        },
+        "assign": {
+            "iconSource": "IAF_Stellaris/IAF_Stellaris.swf",
+            "iconLabel": "HolyAstral_Rune",
+            "iconColor": "#c9779a"
+        }
+    },
+    {
+        "match": {
+            "formType": "Spell",
+            "effectKeywords": "AIAF_SPEL_HolyAstral_Summon"
+        },
+        "assign": {
+            "iconSource": "IAF_Stellaris/IAF_Stellaris.swf",
+            "iconLabel": "HolyAstral_Summon",
+            "iconColor": "#c9779a"
+        }
+    },
+    {
+        "match": {
+            "formType": "Spell",
+            "effectKeywords": "AIAF_SPEL_Fire_EnhanceWeapon"
+        },
+        "assign": {
+            "iconSource": "IAF_Natura/IAF_Natura.swf",
+            "iconLabel": "Natura_EnhanceWeapon",
+            "iconColor": "#e08300"
+        }
+    },
+    {
+        "match": {
+            "formType": "Spell",
+            "effectKeywords": "AIAF_SPEL_Frost_EnhanceWeapon"
+        },
+        "assign": {
+            "iconSource": "IAF_Natura/IAF_Natura.swf",
+            "iconLabel": "Natura_EnhanceWeapon",
+            "iconColor": "#90ffff"
+        }
+    },
+    {
+        "match": {
+            "formType": "Spell",
+            "effectKeywords": "AIAF_SPEL_Shock_EnhanceWeapon"
+        },
+        "assign": {
+            "iconSource": "IAF_Natura/IAF_Natura.swf",
+            "iconLabel": "Natura_EnhanceWeapon",
+            "iconColor": "#ffd054"
+        }
+    },
+    {
+        "match": {
+            "formType": "Spell",
+            "effectKeywords": "AIAF_SPEL_Wind_EnhanceWeapon"
+        },
+        "assign": {
+            "iconSource": "IAF_Natura/IAF_Natura.swf",
+            "iconLabel": "Natura_EnhanceWeapon",
+            "iconColor": "#c1c1c1"
+        }
+    }
+]
+}
