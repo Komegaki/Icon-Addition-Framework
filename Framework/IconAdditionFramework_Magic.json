@@ -52,7 +52,7 @@
             },
             "assign": {
                 "iconSource": "IAF_AbyssalTides/IAF_AbyssalTides.swf",
-                "iconLabel": "",
+                "iconLabel": "UNDEFINED",
                 "iconColor": "#82eb00"
             }
         },
@@ -444,6 +444,83 @@
         {
             "match": {
                 "formType": "Spell",
+                "effectKeywords": "AIAF_SPEL_Ferocity_Cloak"
+            },
+            "assign": {
+                "iconSource": "IAF_Normal/IAF_Normal.swf",
+                "iconLabel": "Normal_Cloak",
+                "iconColor": "#c73636"
+            }
+        },
+        {
+            "match": {
+                "formType": "Spell",
+                "effectKeywords": "AIAF_SPEL_Ferocity_DamageFire"
+            },
+            "assign": {
+                "iconSource": "IAF_Normal/IAF_Normal.swf",
+                "iconLabel": "Fire_DamageFire",
+                "iconColor": "#c73636"
+            }
+        },
+        {
+            "match": {
+                "formType": "Spell",
+                "effectKeywords": "AIAF_SPEL_Ferocity_EnhanceWeapon"
+            },
+            "assign": {
+                "iconSource": "IAF_Normal/IAF_Normal.swf",
+                "iconLabel": "Normal_EnhanceWeapon",
+                "iconColor": "#c73636"
+            }
+        },
+        {
+            "match": {
+                "formType": "Spell",
+                "effectKeywords": "AIAF_SPEL_Ferocity_Illusion"
+            },
+            "assign": {
+                "iconSource": "IAF_Normal/IAF_Normal.swf",
+                "iconLabel": "Normal_Illusion",
+                "iconColor": "#c73636"
+            }
+        },
+        {
+            "match": {
+                "formType": "Spell",
+                "effectKeywords": "AIAF_SPEL_Ferocity_EnhanceArmor"
+            },
+            "assign": {
+                "iconSource": "IAF_Natura/IAF_Natura.swf",
+                "iconLabel": "Natura_EnhanceArmor",
+                "iconColor": "#c73636"
+            }
+        },
+        {
+            "match": {
+                "formType": "Spell",
+                "effectKeywords": "AIAF_SPEL_Ferocity_Rune"
+            },
+            "assign": {
+                "iconSource": "IAF_Normal/IAF_Normal.swf",
+                "iconLabel": "Fire_Rune",
+                "iconColor": "#c73636"
+            }
+        },
+        {
+            "match": {
+                "formType": "Spell",
+                "effectKeywords": "AIAF_SPEL_Ferocity_Summon"
+            },
+            "assign": {
+                "iconSource": "IAF_Normal/IAF_Normal.swf",
+                "iconLabel": "Normal_Summon",
+                "iconColor": "#c73636"
+            }
+        },
+        {
+            "match": {
+                "formType": "Spell",
                 "effectKeywords": "AIAF_SPEL_Fire_Cloak"
             },
             "assign": {
@@ -471,6 +548,17 @@
             "assign": {
                 "iconSource": "IAF_Normal/IAF_Normal.swf",
                 "iconLabel": "Normal_EnhanceWeapon",
+                "iconColor": "#e08300"
+            }
+        },
+        {
+            "match": {
+                "formType": "Spell",
+                "effectKeywords": "AIAF_SPEL_Fire_Phoenix"
+            },
+            "assign": {
+                "iconSource": "IAF_Natura/IAF_Natura.swf",
+                "iconLabel": "Natura_Phoenix",
                 "iconColor": "#e08300"
             }
         },
@@ -747,6 +835,50 @@
                 "iconSource": "IAF_Lunaris/IAF_Lunaris.swf",
                 "iconLabel": "HolyLunar_Summon",
                 "iconColor": "#4898ea"
+            }
+        },
+        {
+            "match": {
+                "formType": "Spell",
+                "effectKeywords": "AIAF_SPEL_Nature_Alteration"
+            },
+            "assign": {
+                "iconSource": "IAF_Natura/IAF_Natura.swf",
+                "iconLabel": "Natura_Alteration",
+                "iconColor": "#714b39"
+            }
+        },
+        {
+            "match": {
+                "formType": "Spell",
+                "effectKeywords": "AIAF_SPEL_Nature_ReflectDamage"
+            },
+            "assign": {
+                "iconSource": "IAF_Natura/IAF_Natura.swf",
+                "iconLabel": "Natura_ReflectDamage",
+                "iconColor": "#9eda74"
+            }
+        },
+        {
+            "match": {
+                "formType": "Spell",
+                "effectKeywords": "AIAF_SPEL_Nature_Stagger"
+            },
+            "assign": {
+                "iconSource": "IAF_Natura/IAF_Natura.swf",
+                "iconLabel": "Natura_Stagger",
+                "iconColor": "#9eda74"
+            }
+        },
+        {
+            "match": {
+                "formType": "Spell",
+                "effectKeywords": "AIAF_SPEL_Nature_Summon"
+            },
+            "assign": {
+                "iconSource": "IAF_Natura/IAF_Natura.swf",
+                "iconLabel": "Natura_Summon",
+                "iconColor": "#714b39"
             }
         },
         {
@@ -1054,6 +1186,17 @@
             "assign": {
                 "iconSource": "IAF_Natura/IAF_Natura.swf",
                 "iconLabel": "Natura_EnhanceWeapon",
+                "iconColor": "#9eda74"
+            }
+        },
+        {
+            "match": {
+                "formType": "Spell",
+                "effectKeywords": "AIAF_SPEL_Poison_Paralysis"
+            },
+            "assign": {
+                "iconSource": "IAF_Natura/IAF_Natura.swf",
+                "iconLabel": "Poison_Paralysis",
                 "iconColor": "#9eda74"
             }
         },
@@ -1412,6 +1555,17 @@
         {
             "match": {
                 "formType": "Spell",
+                "effectKeywords": "AIAF_SPEL_Water_Rain"
+            },
+            "assign": {
+                "iconSource": "IAF_Natura/IAF_Natura.swf",
+                "iconLabel": "Natura_Rain",
+                "iconColor": "#74abd1"
+            }
+        },
+        {
+            "match": {
+                "formType": "Spell",
                 "effectKeywords": "AIAF_SPEL_Water_Rune"
             },
             "assign": {
@@ -1434,6 +1588,28 @@
         {
             "match": {
                 "formType": "Spell",
+                "effectKeywords": "AIAF_SPEL_Wind_BuffMovement"
+            },
+            "assign": {
+                "iconSource": "IAF_Natura/IAF_Natura.swf",
+                "iconLabel": "Natura_BuffMovement",
+                "iconColor": "#c1c1c1"
+            }
+        },
+        {
+            "match": {
+                "formType": "Spell",
+                "effectKeywords": "AIAF_SPEL_Wind_Cloak"
+            },
+            "assign": {
+                "iconSource": "IAF_Natura/IAF_Natura.swf",
+                "iconLabel": "Natura_Cloak",
+                "iconColor": "#c1c1c1"
+            }
+        },
+        {
+            "match": {
+                "formType": "Spell",
                 "effectKeywords": "AIAF_SPEL_Wind_DamageWind"
             },
             "assign": {
@@ -1450,6 +1626,17 @@
             "assign": {
                 "iconSource": "IAF_Natura/IAF_Natura.swf",
                 "iconLabel": "Natura_EnhanceWeapon",
+                "iconColor": "#c1c1c1"
+            }
+        },
+        {
+            "match": {
+                "formType": "Spell",
+                "effectKeywords": "AIAF_SPEL_Wind_Illusion"
+            },
+            "assign": {
+                "iconSource": "IAF_Natura/IAF_Natura.swf",
+                "iconLabel": "Natura_Illusion",
                 "iconColor": "#c1c1c1"
             }
         },
